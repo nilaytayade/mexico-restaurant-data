@@ -1,0 +1,37 @@
+{
+ "source": "INEGI, DENUE 05/2026 (modified 2026-05-20), sector 72, SCIAN 7225",
+ "restaurant_establishments": 741499,
+ "bars_7224_not_included": 32361,
+ "staff_bands": {
+  "0-5": 657347,
+  "6-10": 56443,
+  "11-30": 22943,
+  "31-50": 3531,
+  "51-100": 887,
+  "101-250": 288,
+  "251+": 60
+ },
+ "staff_0_5_share_pct": 88.7,
+ "eleven_plus": 27709,
+ "eleven_plus_share_pct": 3.7,
+ "groups_min": {
+  "2-5": 741,
+  "6-15": 134,
+  "16-50": 49,
+  "51+": 19
+ },
+ "groups_2_15_total": 875,
+ "groups_2_15_establishments": 3129,
+ "groups_2_15_single_state_share_pct": 73.3,
+ "groups_16_plus_total": 68,
+ "groups_16_plus_establishments": 4235,
+ "staff_band_share_in_2_15_groups_pct": {
+  "0-5": 26.4,
+  "6-10": 24.2,
+  "11-30": 33.6,
+  "31-50": 7.9,
+  "51-100": 4.1,
+  "101-250": 2.9,
+  "251+": 0.9
+ }
+}

@@ -1,0 +1,871 @@
+entidad,municipio,eleven_plus
+Ciudad de México,Cuauhtémoc,998
+Baja California,Tijuana,758
+Nuevo León,Monterrey,715
+Jalisco,Guadalajara,680
+Yucatán,Mérida,587
+Ciudad de México,Miguel Hidalgo,531
+Querétaro,Querétaro,525
+Jalisco,Zapopan,512
+Ciudad de México,Benito Juárez,508
+Puebla,Puebla,502
+Quintana Roo,Benito Juárez,484
+Sinaloa,Culiacán,449
+Guanajuato,León,441
+Baja California,Mexicali,383
+Chihuahua,Juárez,373
+Ciudad de México,Álvaro Obregón,359
+Chihuahua,Chihuahua,343
+Sonora,Hermosillo,341
+Ciudad de México,Coyoacán,335
+Aguascalientes,Aguascalientes,317
+San Luis Potosí,San Luis Potosí,311
+Sinaloa,Mazatlán,301
+Michoacán de Ocampo,Morelia,297
+Baja California Sur,Los Cabos,295
+Coahuila de Zaragoza,Saltillo,288
+Coahuila de Zaragoza,Torreón,286
+Ciudad de México,Iztapalapa,279
+Guerrero,Acapulco de Juárez,275
+México,Naucalpan de Juárez,269
+Ciudad de México,Gustavo A. Madero,262
+Nuevo León,San Pedro Garza García,249
+Tabasco,Centro,229
+Jalisco,Puerto Vallarta,226
+Ciudad de México,Tlalpan,206
+Morelos,Cuernavaca,205
+Quintana Roo,Solidaridad,202
+Ciudad de México,Venustiano Carranza,198
+Chiapas,Tuxtla Gutiérrez,198
+Nuevo León,San Nicolás de los Garza,196
+Oaxaca,Oaxaca de Juárez,195
+Hidalgo,Pachuca de Soto,195
+Sinaloa,Ahome,189
+México,Toluca,189
+Durango,Durango,186
+Veracruz de Ignacio de la Llave,Xalapa,182
+Veracruz de Ignacio de la Llave,Veracruz,179
+México,Tlalnepantla de Baz,174
+Nuevo León,Apodaca,165
+Nuevo León,Guadalupe,164
+Baja California Sur,La Paz,162
+México,Ecatepec de Morelos,155
+México,Metepec,155
+Nayarit,Tepic,153
+Ciudad de México,Azcapotzalco,151
+Ciudad de México,Cuajimalpa de Morelos,149
+Baja California,Ensenada,145
+Veracruz de Ignacio de la Llave,Boca del Río,145
+Nayarit,Bahía de Banderas,140
+Tamaulipas,Tampico,138
+Sonora,Cajeme,137
+Tamaulipas,Reynosa,135
+Jalisco,Tlajomulco de Zúñiga,128
+Puebla,San Andrés Cholula,125
+México,Nezahualcóyotl,118
+Tamaulipas,Nuevo Laredo,113
+México,Cuautitlán Izcalli,110
+México,Atizapán de Zaragoza,110
+Tamaulipas,Matamoros,107
+Colima,Colima,105
+Jalisco,San Pedro Tlaquepaque,103
+Guanajuato,Irapuato,103
+México,Huixquilucan,100
+Quintana Roo,Cozumel,99
+Guanajuato,Celaya,98
+Campeche,Campeche,91
+Sonora,Nogales,91
+Veracruz de Ignacio de la Llave,Coatzacoalcos,91
+Baja California,Playas de Rosarito,91
+Tamaulipas,Victoria,90
+Guanajuato,San Miguel de Allende,87
+Zacatecas,Zacatecas,81
+Colima,Manzanillo,80
+Michoacán de Ocampo,Uruapan,80
+Chiapas,Tapachula,79
+México,Coacalco de Berriozábal,76
+México,Texcoco,75
+Quintana Roo,Tulum,74
+Nuevo León,General Escobedo,73
+Quintana Roo,Othón P. Blanco,72
+Jalisco,Zapotlán el Grande,72
+Coahuila de Zaragoza,Monclova,69
+Coahuila de Zaragoza,Piedras Negras,68
+Chiapas,San Cristóbal de las Casas,68
+Veracruz de Ignacio de la Llave,Córdoba,67
+Veracruz de Ignacio de la Llave,Orizaba,66
+Campeche,Carmen,65
+Nuevo León,Santa Catarina,65
+Sinaloa,Guasave,64
+Chihuahua,Cuauhtémoc,63
+Sonora,Guaymas,62
+Sonora,San Luis Río Colorado,59
+Guanajuato,Guanajuato,58
+Puebla,Tehuacán,58
+Querétaro,Corregidora,57
+México,Tecámac,55
+Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo,54
+Ciudad de México,Iztacalco,54
+Puebla,San Pedro Cholula,54
+Querétaro,San Juan del Río,52
+Durango,Gómez Palacio,51
+Guerrero,Chilpancingo de los Bravo,51
+Michoacán de Ocampo,Lázaro Cárdenas,50
+Yucatán,Valladolid,49
+Baja California,Tecate,47
+San Luis Potosí,Ciudad Valles,46
+Querétaro,El Marqués,45
+Tamaulipas,Ciudad Madero,45
+Sonora,Puerto Peñasco,45
+México,Ixtapaluca,43
+Morelos,Cuautla,43
+Jalisco,Tepatitlán de Morelos,42
+Guerrero,Zihuatanejo de Azueta,42
+Nuevo León,Santiago,41
+Jalisco,Tonalá,41
+Tlaxcala,Tlaxcala,41
+Chihuahua,Delicias,41
+Oaxaca,Santa María Huatulco,40
+Zacatecas,Guadalupe,39
+Quintana Roo,Isla Mujeres,39
+Hidalgo,Tulancingo de Bravo,39
+Michoacán de Ocampo,Zamora,38
+Ciudad de México,La Magdalena Contreras,38
+Guanajuato,Salamanca,37
+Veracruz de Ignacio de la Llave,Tuxpan,35
+Coahuila de Zaragoza,Acuña,35
+México,Chalco,35
+Colima,Villa de Álvarez,35
+Sonora,Navojoa,34
+Oaxaca,Santa María Colotepec,34
+Puebla,Atlixco,33
+Yucatán,Progreso,33
+Veracruz de Ignacio de la Llave,Minatitlán,32
+Jalisco,Chapala,30
+Coahuila de Zaragoza,Ramos Arizpe,30
+Sonora,Agua Prieta,30
+Morelos,Jiutepec,29
+Guanajuato,Silao de la Victoria,29
+Hidalgo,Mineral de la Reforma,29
+Querétaro,Ezequiel Montes,29
+Ciudad de México,Xochimilco,28
+Colima,Tecomán,28
+Ciudad de México,Tláhuac,28
+Nuevo León,García,28
+Michoacán de Ocampo,Apatzingán,28
+México,Tepotzotlán,27
+Tamaulipas,Altamira,27
+Nuevo León,Juárez,27
+Nayarit,San Blas,27
+Jalisco,Arandas,26
+México,Cuautitlán,26
+San Luis Potosí,Soledad de Graciano Sánchez,26
+Tabasco,Cárdenas,26
+Chihuahua,Hidalgo del Parral,25
+Chiapas,Comitán de Domínguez,25
+México,Lerma,25
+México,Zumpango,25
+Aguascalientes,Jesús María,24
+Hidalgo,Tizayuca,24
+Zacatecas,Fresnillo,24
+San Luis Potosí,Villa de Pozos SLP,24
+Jalisco,San Juan de los Lagos,24
+Tabasco,Comalcalco,24
+San Luis Potosí,Matehuala,23
+México,Tultitlán,23
+Sinaloa,Salvador Alvarado,23
+Morelos,Yautepec,23
+Veracruz de Ignacio de la Llave,Coatepec,22
+Hidalgo,Tula de Allende,22
+Nuevo León,Cadereyta Jiménez,22
+Quintana Roo,Puerto Morelos,22
+Baja California,San Quintín,22
+Jalisco,Lagos de Moreno,22
+Guanajuato,San Francisco del Rincón,21
+Guerrero,Iguala de la Independencia,21
+México,Valle de Chalco Solidaridad,21
+Querétaro,Tequisquiapan,21
+Jalisco,Ocotlán,21
+Quintana Roo,Bacalar,20
+Michoacán de Ocampo,La Piedad,20
+Michoacán de Ocampo,Pátzcuaro,19
+Tamaulipas,Río Bravo,19
+Oaxaca,Heroica Ciudad de Huajuapan de León,19
+Tlaxcala,Apizaco,19
+México,Chimalhuacán,18
+Jalisco,Jocotepec,18
+Sonora,Caborca,18
+México,La Paz,17
+México,Tultepec,17
+México,Valle de Bravo,17
+Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,17
+Tabasco,Paraíso,17
+Nayarit,Compostela,17
+Oaxaca,San Juan Bautista Tuxtepec,17
+Guerrero,Taxco de Alarcón,17
+Hidalgo,Ixmiquilpan,17
+Puebla,San Martín Texmelucan,17
+Tlaxcala,Tetlatlahuca,17
+Chiapas,Palenque,17
+Veracruz de Ignacio de la Llave,Perote,16
+Oaxaca,Salina Cruz,16
+Morelos,Xochitepec,16
+Chihuahua,Nuevo Casas Grandes,16
+Jalisco,Autlán de Navarro,16
+México,Atlacomulco,16
+Michoacán de Ocampo,Sahuayo,16
+Puebla,Zacatlán,15
+Quintana Roo,Lázaro Cárdenas,15
+Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,15
+Sinaloa,Navolato,15
+Morelos,Jojutla,15
+México,Teotihuacán,15
+México,San Mateo Atenco,15
+México,Nicolás Romero,15
+Guanajuato,Pénjamo,15
+Coahuila de Zaragoza,Matamoros,15
+Tamaulipas,El Mante,14
+Michoacán de Ocampo,Los Reyes,14
+Jalisco,Cihuatlán,14
+Sonora,Cananea,14
+Nayarit,Santiago Ixcuintla,14
+Jalisco,Tequila,14
+México,Ocoyoacac,14
+Nuevo León,Montemorelos,13
+Oaxaca,San Pedro Mixtepec,13
+Veracruz de Ignacio de la Llave,Alvarado,13
+Nuevo León,General Zuazua,13
+Oaxaca,Santa Cruz Xoxocotlán,13
+San Luis Potosí,Rioverde,13
+Puebla,Teziutlán,13
+Veracruz de Ignacio de la Llave,Papantla,13
+Zacatecas,Jerez,13
+Nayarit,Ixtlán del Río,12
+Coahuila de Zaragoza,Sabinas,12
+Nuevo León,Sabinas Hidalgo,12
+Tamaulipas,Valle Hermoso,12
+Coahuila de Zaragoza,Arteaga,12
+Durango,Lerdo,12
+Campeche,Champotón,12
+México,Zinacantepec,12
+Hidalgo,Huejutla de Reyes,12
+Chihuahua,Ahumada,12
+Yucatán,Hunucmá,12
+México,Capulhuac,12
+Chiapas,Ocosingo,12
+Aguascalientes,Calvillo,11
+Veracruz de Ignacio de la Llave,Emiliano Zapata,11
+Chiapas,Villaflores,11
+Oaxaca,Santa Lucía del Camino,11
+Morelos,Temixco,11
+Morelos,Emiliano Zapata,11
+Guanajuato,Acámbaro,11
+Michoacán de Ocampo,Hidalgo,11
+Jalisco,El Salto,11
+Guanajuato,Salvatierra,11
+Jalisco,Ameca,11
+Coahuila de Zaragoza,Frontera,10
+Veracruz de Ignacio de la Llave,Huatusco,10
+Morelos,Tepoztlán,10
+Puebla,Tepeaca,10
+Baja California Sur,Comondú,10
+Guanajuato,Moroleón,10
+Jalisco,Zapotlanejo,10
+Aguascalientes,San Francisco de los Romo,10
+Guanajuato,San José Iturbide,10
+Jalisco,Atotonilco el Alto,10
+Aguascalientes,Pabellón de Arteaga,9
+Guanajuato,Uriangato,9
+Hidalgo,Tepeji del Río de Ocampo,9
+Puebla,Cuautlancingo,9
+Yucatán,Tizimín,9
+Chihuahua,Camargo,9
+Veracruz de Ignacio de la Llave,La Antigua,9
+Nuevo León,Linares,9
+Tabasco,Macuspana,9
+Coahuila de Zaragoza,San Pedro,9
+Guanajuato,San Luis de la Paz,9
+Veracruz de Ignacio de la Llave,San Andrés Tuxtla,8
+Michoacán de Ocampo,Zitácuaro,8
+Yucatán,Kanasín,8
+México,Huehuetoca,8
+Jalisco,El Grullo,8
+Hidalgo,Mineral del Monte,8
+México,Chicoloapan,8
+Jalisco,Cabo Corrientes,8
+México,Ixtlahuaca,8
+México,Tenancingo,8
+México,Ixtapan de la Sal,8
+Oaxaca,Miahuatlán de Porfirio Díaz,8
+Tlaxcala,Huamantla,8
+Michoacán de Ocampo,Tacámbaro,8
+México,Tejupilco,8
+Campeche,Escárcega,8
+Jalisco,Jalostotitlán,8
+Baja California,San Felipe                                                                  ,8
+Coahuila de Zaragoza,Parras,8
+México,Tenango del Valle,7
+Chiapas,Berriozábal,7
+Jalisco,Tapalpa,7
+Sonora,Huatabampo,7
+Michoacán de Ocampo,Zacapu,7
+Puebla,Tecamachalco,7
+Yucatán,Umán,7
+Yucatán,Oxkutzcab,7
+Puebla,Chignahuapan,7
+Quintana Roo,Felipe Carrillo Puerto,7
+Sinaloa,Elota,7
+Oaxaca,Ciudad Ixtepec,7
+Puebla,Amozoc,7
+Michoacán de Ocampo,Múgica,7
+Michoacán de Ocampo,Puruándiro,7
+Tlaxcala,Chiautempan,7
+Veracruz de Ignacio de la Llave,Acayucan,7
+Guanajuato,Purísima del Rincón,7
+Chiapas,Chiapa de Corzo,6
+Veracruz de Ignacio de la Llave,Tierra Blanca,6
+Zacatecas,Río Grande,6
+Yucatán,Motul,6
+Puebla,Izúcar de Matamoros,6
+Puebla,Coronango,6
+Guanajuato,San Felipe,6
+Michoacán de Ocampo,Huetamo,6
+Hidalgo,Actopan,6
+Michoacán de Ocampo,Jiquilpan,6
+Querétaro,Colón,6
+Puebla,Huauchinango,6
+Querétaro,Pedro Escobedo,6
+Jalisco,Mazamitla,6
+Aguascalientes,Rincón de Romos,6
+Jalisco,La Huerta,6
+México,Villa del Carbón,6
+Yucatán,Tekax,6
+Tabasco,Teapa,6
+Tabasco,Tenosique,6
+Sonora,Santa Ana,6
+Sonora,Magdalena,6
+Jalisco,Tuxpan,6
+Durango,Pueblo Nuevo,6
+Guanajuato,Apaseo el Grande,6
+Durango,Guadalupe Victoria,6
+México,Jilotepec,6
+México,Malinalco,6
+Ciudad de México,Milpa Alta,6
+Morelos,Huitzilac,6
+Campeche,Candelaria,5
+Baja California Sur,Mulegé,5
+Chiapas,Huixtla,5
+Yucatán,Tinum,5
+Hidalgo,Huichapan,5
+San Luis Potosí,Salinas,5
+México,Apaxco,5
+Guerrero,Eduardo Neri,5
+Yucatán,Izamal,5
+Querétaro,Huimilpan,5
+Veracruz de Ignacio de la Llave,Fortín,5
+Nuevo León,General Bravo,5
+Hidalgo,Zempoala,5
+Tabasco,Cunduacán,5
+Nayarit,Xalisco,5
+Michoacán de Ocampo,Gabriel Zamora,5
+Chihuahua,Jiménez,5
+México,San Martín de las Pirámides,5
+Coahuila de Zaragoza,Castaños,5
+Jalisco,Zapotiltic,5
+Coahuila de Zaragoza,San Juan de Sabinas,5
+Jalisco,San Julián,5
+Nayarit,Acaponeta,5
+Tamaulipas,Miguel Alemán,5
+Durango,Santiago Papasquiaro,5
+Tlaxcala,Calpulalpan,5
+Sinaloa,Mocorito,5
+Sinaloa,Eldorado,5
+Sinaloa,Angostura,5
+Veracruz de Ignacio de la Llave,Cosoleacaque,5
+Veracruz de Ignacio de la Llave,Cosamaloapan de Carpio,5
+México,Calimaya,5
+Yucatán,Celestún,5
+Chiapas,Tonalá,5
+Nuevo León,Salinas Victoria,5
+Jalisco,Jamay,5
+Nuevo León,Pesquería,5
+Tabasco,Jalpa de Méndez,4
+Chiapas,Teopisca,4
+Puebla,Tlatlauquitepec,4
+Morelos,Tlayacapan,4
+Michoacán de Ocampo,Jacona,4
+Veracruz de Ignacio de la Llave,Tres Valles,4
+Nuevo León,Ciénega de Flores,4
+Oaxaca,Santa María Tonameca,4
+Michoacán de Ocampo,Charo,4
+Oaxaca,Tlalixtac de Cabrera,4
+Morelos,Zacatepec,4
+Aguascalientes,San José de Gracia,4
+Veracruz de Ignacio de la Llave,Tihuatlán,4
+Guerrero,Ometepec,4
+Guerrero,Coyuca de Benítez,4
+Guanajuato,Tarimoro,4
+Baja California Sur,Loreto,4
+Guanajuato,Valle de Santiago,4
+Guerrero,Chilapa de Álvarez,4
+Hidalgo,Atitalaquia,4
+Yucatán,Maní,4
+Veracruz de Ignacio de la Llave,Tantoyuca,4
+Veracruz de Ignacio de la Llave,Pueblo Viejo,4
+Veracruz de Ignacio de la Llave,Tecolutla,4
+Coahuila de Zaragoza,Francisco I. Madero,4
+Michoacán de Ocampo,Buenavista,4
+Guanajuato,Cortazar,4
+Nayarit,Santa María del Oro,4
+Chihuahua,Meoqui,4
+Tlaxcala,Zacatelco,4
+Jalisco,Ayotlán,4
+Zacatecas,Nochistlán de Mejía,4
+Puebla,Xicotepec,4
+Tabasco,Nacajuca,4
+Jalisco,Yahualica de González Gallo,4
+Oaxaca,Loma Bonita,4
+Sinaloa,Escuinapa,4
+Jalisco,El Arenal,4
+Chihuahua,Bocoyna,4
+Jalisco,Etzatlán,4
+Veracruz de Ignacio de la Llave,Catemaco,4
+Veracruz de Ignacio de la Llave,Martínez de la Torre,4
+Yucatán,Ticul,4
+Jalisco,Tala,4
+Jalisco,Tamazula de Gordiano,4
+Zacatecas,Loreto,4
+Oaxaca,Heroica Ciudad de Tlaxiaco,4
+Zacatecas,Sombrerete,4
+Colima,Comala,4
+Sinaloa,El Fuerte,4
+San Luis Potosí,Villa de Reyes,4
+Jalisco,Encarnación de Díaz,4
+Chiapas,Frontera Comalapa,3
+Hidalgo,Tepeapulco,3
+Chiapas,Arriaga,3
+Guerrero,Ayutla de los Libres,3
+San Luis Potosí,Ciudad Fernández,3
+Oaxaca,Villa de Zaachila,3
+Puebla,Acatlán,3
+México,Acolman,3
+Michoacán de Ocampo,Tepalcatepec,3
+Michoacán de Ocampo,Tarímbaro,3
+Michoacán de Ocampo,Cotija,3
+Michoacán de Ocampo,Peribán,3
+Michoacán de Ocampo,Salvador Escalante,3
+Nuevo León,Allende,3
+Tabasco,Balancán,3
+México,Tianguistenco,3
+Jalisco,Villa Hidalgo,3
+Chihuahua,Aldama,3
+Chihuahua,Ojinaga,3
+Michoacán de Ocampo,Ario,3
+México,Xonacatlán,3
+Coahuila de Zaragoza,Múzquiz,3
+Coahuila de Zaragoza,San Buenaventura,3
+Oaxaca,San Pedro Pochutla,3
+Sonora,Alamos,3
+San Luis Potosí,Xilitla,3
+Puebla,San Gregorio Atzompa,3
+Veracruz de Ignacio de la Llave,Coscomatepec,3
+México,Melchor Ocampo,3
+Guerrero,Petatlán,3
+Guerrero,Pungarabato,3
+Oaxaca,San Agustín de las Juntas,3
+Oaxaca,Ocotlán de Morelos,3
+Durango,Vicente Guerrero,3
+Guanajuato,Apaseo el Alto,3
+Oaxaca,Matías Romero Avendaño,3
+Michoacán de Ocampo,Ecuandureo,3
+Jalisco,Tototlán,3
+Jalisco,San Ignacio Cerro Gordo,3
+Nayarit,Tuxpan,3
+Jalisco,La Barca,3
+Jalisco,Jesús María,3
+Sonora,Nacozari de García,3
+Hidalgo,Tolcayuca,3
+Jalisco,Cocula,3
+Tabasco,Emiliano Zapata,3
+Guanajuato,Romita,3
+Oaxaca,Santa María del Tule,3
+Oaxaca,Santa Catarina Ixtepeji,3
+Jalisco,Sayula,3
+Jalisco,Tenamaxtlán,3
+Nuevo León,Hualahuises,3
+Nuevo León,Hidalgo,3
+Jalisco,Tecolotlán,3
+Jalisco,Acatlán de Juárez,3
+Yucatán,Temozón,3
+Zacatecas,Juchipila,3
+Querétaro,Cadereyta de Montes,3
+Hidalgo,Atotonilco de Tula,3
+Yucatán,Conkal,3
+Guerrero,Técpan de Galeana,3
+Yucatán,Halachó,3
+Hidalgo,Apan,3
+Morelos,Atlatlahucan,3
+Veracruz de Ignacio de la Llave,Ixtaczoquitlán,3
+Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río,3
+Veracruz de Ignacio de la Llave,Isla,3
+Guerrero,Tlapa de Comonfort,3
+Morelos,Axochiapan,3
+Michoacán de Ocampo,Maravatío,3
+Michoacán de Ocampo,Indaparapeo,3
+Veracruz de Ignacio de la Llave,Ursulo Galván,2
+Veracruz de Ignacio de la Llave,Pánuco,2
+Veracruz de Ignacio de la Llave,Río Blanco,2
+Veracruz de Ignacio de la Llave,Soledad de Doblado,2
+Veracruz de Ignacio de la Llave,Tamiahua,2
+Michoacán de Ocampo,Madero,2
+Morelos,Puente de Ixtla,2
+Morelos,Totolapan,2
+Michoacán de Ocampo,Huandacareo,2
+Michoacán de Ocampo,Zinapécuaro,2
+Michoacán de Ocampo,Álvaro Obregón,2
+Michoacán de Ocampo,Tingüindín,2
+Michoacán de Ocampo,Yurécuaro,2
+Veracruz de Ignacio de la Llave,Medellín de Bravo,2
+Veracruz de Ignacio de la Llave,Misantla,2
+Veracruz de Ignacio de la Llave,Naolinco,2
+Veracruz de Ignacio de la Llave,Pajapan,2
+Hidalgo,Cuautepec de Hinojosa,2
+Guerrero,San Marcos,2
+Yucatán,Río Lagartos,2
+Zacatecas,Tlaltenango de Sánchez Román,2
+Yucatán,Chocholá,2
+Chiapas,Yajalón,2
+Veracruz de Ignacio de la Llave,Xico,2
+Zacatecas,Juan Aldama,2
+Yucatán,Telchac Puerto,2
+Tabasco,Huimanguillo,2
+Guanajuato,Cuerámaro,2
+Jalisco,Ahualulco de Mercado,2
+Jalisco,Colotlán,2
+Hidalgo,Villa de Tezontepec,2
+Nuevo León,El Carmen,2
+Oaxaca,Santiago Pinotepa Nacional,2
+Oaxaca,Santo Domingo Tehuantepec,2
+Oaxaca,San Jacinto Amilpas,2
+Jalisco,San Martín Hidalgo,2
+Jalisco,San Miguel el Alto,2
+Jalisco,Talpa de Allende,2
+Nuevo León,Anáhuac,2
+Nayarit,Jala,2
+Nayarit,Ruíz,2
+Nayarit,Tecuala,2
+Tabasco,Tacotalpa,2
+Tamaulipas,Aldama,2
+Coahuila de Zaragoza,Allende,2
+Tabasco,Centla,2
+Jalisco,Zacoalco de Torres,2
+Michoacán de Ocampo,Arteaga,2
+Jalisco,Unión de Tula,2
+México,Temascalcingo,2
+México,Tepetlixpa,2
+México,Tezoyuca,2
+Chihuahua,Guachochi,2
+Chihuahua,Guerrero,2
+Chihuahua,Namiquipa,2
+Chihuahua,Santa Isabel,2
+Chihuahua,Ascensión,2
+Tlaxcala,La Magdalena Tlaltelulco,2
+Tamaulipas,San Fernando,2
+Tlaxcala,Apetatitlán de Antonio Carvajal,2
+Jalisco,Cuquío,2
+Jalisco,Degollado,2
+Guanajuato,Abasolo,2
+Sonora,Benito Juárez,2
+Durango,Cuencamé,2
+Sinaloa,Concordia,2
+Sinaloa,Juan José Ríos,2
+San Luis Potosí,Tamuín,2
+Puebla,Esperanza,2
+Veracruz de Ignacio de la Llave,Coatzintla,2
+Veracruz de Ignacio de la Llave,Cuitláhuac,2
+Veracruz de Ignacio de la Llave,Actopan,2
+Veracruz de Ignacio de la Llave,Agua Dulce,2
+Veracruz de Ignacio de la Llave,Amatlán de los Reyes,2
+México,Jilotzingo,2
+México,Nextlalpan,2
+México,Ocuilan,2
+México,Otumba,2
+México,Atenco,2
+México,Axapusco,2
+México,Chapa de Mota,2
+México,Hueypoxtla,2
+México,Jaltenco,2
+Morelos,Yecapixtla,2
+Michoacán de Ocampo,Tangancícuaro,2
+Michoacán de Ocampo,Coalcomán de Vázquez Pallares,2
+Michoacán de Ocampo,Cuitzeo,2
+Puebla,Huejotzingo,2
+Puebla,Altepexi,2
+Puebla,Chignautla,2
+Oaxaca,Villa de Tututepec,2
+Oaxaca,Zimatlán de Álvarez,2
+Puebla,Acatzingo,2
+Guerrero,Coyuca de Catalán,2
+Guanajuato,Yuriria,2
+San Luis Potosí,Santa María del Río,2
+Guanajuato,Santa Cruz de Juventino Rosas,2
+Hidalgo,Tlahuelilpan,2
+San Luis Potosí,Cedral,2
+San Luis Potosí,Charcas,2
+Hidalgo,Mixquiahuala de Juárez,2
+Hidalgo,Progreso de Obregón,2
+Hidalgo,Santiago Tulantepec de Lugo Guerrero,2
+Hidalgo,Tetepango,2
+Hidalgo,Alfajayucan,2
+Yucatán,Tixkokob,2
+Chiapas,Cacahoatán,2
+Yucatán,Santa Elena,2
+Yucatán,Sucilá,2
+Veracruz de Ignacio de la Llave,Tlalixcoyan,2
+Chiapas,Suchiate,2
+Campeche,Calakmul,2
+Chiapas,Pichucalco,2
+Chiapas,Angel Albino Corzo,2
+Aguascalientes,Asientos,2
+Campeche,Calkiní,1
+Chiapas,Altamirano,1
+Chiapas,Benemérito de las Américas,1
+Yucatán,Sotuta,1
+Yucatán,Teabo,1
+Yucatán,Tekit,1
+Yucatán,Tekom,1
+Yucatán,Teya,1
+Zacatecas,Apozol,1
+Zacatecas,Concepción del Oro,1
+Zacatecas,Jalpa,1
+Zacatecas,Mazapil,1
+Zacatecas,Moyahua de Estrada,1
+Chiapas,Tecpatán,1
+Chiapas,Unión Juárez,1
+Chiapas,Villa Comaltitlán,1
+Veracruz de Ignacio de la Llave,Zongolica,1
+Yucatán,Acanceh,1
+Yucatán,Akil,1
+Yucatán,Baca,1
+Yucatán,Calotmul,1
+Yucatán,Chichimilá,1
+Yucatán,Cuncunul,1
+Yucatán,Dzidzantún,1
+Yucatán,Espita,1
+Yucatán,Homún,1
+Yucatán,Kaua,1
+Yucatán,Mama,1
+Yucatán,Maxcanú,1
+Yucatán,Muna,1
+Yucatán,Opichén,1
+Yucatán,Peto,1
+Yucatán,Samahil,1
+Puebla,Tecomatlán,1
+Puebla,Tlapanalá,1
+Puebla,Tulcingo,1
+Puebla,Venustiano Carranza,1
+Puebla,Xiutetelco,1
+Puebla,Zacapoaxtla,1
+Puebla,Zapotitlán,1
+Guerrero,Tixtla de Guerrero,1
+Guerrero,Tlapehuala,1
+Hidalgo,Acaxochitlán,1
+Hidalgo,El Arenal,1
+Hidalgo,Francisco I. Madero,1
+Hidalgo,Tecozautla,1
+Hidalgo,Tezontepec de Aldama,1
+Querétaro,Jalpan de Serra,1
+Quintana Roo,José María Morelos,1
+San Luis Potosí,Ahualulco,1
+San Luis Potosí,Ebano,1
+San Luis Potosí,El Naranjo,1
+San Luis Potosí,Mexquitic de Carmona,1
+San Luis Potosí,Tamasopo,1
+San Luis Potosí,Tamazunchale,1
+Guanajuato,San Diego de la Unión,1
+Guanajuato,Santiago Maravatío,1
+Guanajuato,Victoria,1
+Guanajuato,Villagrán,1
+Guanajuato,Xichú,1
+Guerrero,Arcelia,1
+Guerrero,Benito Juárez,1
+Guerrero,Cutzamala de Pinzón,1
+Oaxaca,Villa de Etla,1
+Puebla,Acajete,1
+Puebla,Ajalpan,1
+Puebla,Atempan,1
+Puebla,Calpan,1
+Puebla,Chapulco,1
+Puebla,Chiautla,1
+Puebla,Cuetzalan del Progreso,1
+Puebla,General Felipe Ángeles,1
+Puebla,Guadalupe Victoria,1
+Puebla,Huatlatlauca,1
+Puebla,Juan C. Bonilla,1
+Puebla,Libres,1
+Puebla,Nealtican,1
+Puebla,Ocoyucan,1
+Puebla,San Gabriel Chilac,1
+Puebla,San José Miahuatlán,1
+Puebla,San Salvador Huixcolotla,1
+Puebla,San Salvador el Verde,1
+Puebla,Santa Inés Ahuatempan,1
+Puebla,Santa Isabel Cholula,1
+San Luis Potosí,Villa Hidalgo,1
+San Luis Potosí,Villa de Arista,1
+Sinaloa,Cosalá,1
+Sinaloa,Rosario,1
+Sinaloa,San Ignacio,1
+Sonora,Empalme,1
+Sonora,Etchojoa,1
+Durango,El Oro,1
+Durango,Mapimí,1
+Durango,Nazas,1
+Durango,Tamazula,1
+Guanajuato,Coroneo,1
+Jalisco,Gómez Farías,1
+Jalisco,Huejuquilla el Alto,1
+Jalisco,Ixtlahuacán de los Membrillos,1
+Oaxaca,Pluma Hidalgo,1
+Oaxaca,Putla Villa de Guerrero,1
+Oaxaca,San Agustín Yatareni,1
+Oaxaca,San Andrés Huayápam,1
+Oaxaca,San Bartolo Coyotepec,1
+Oaxaca,San José Chiltepec,1
+Oaxaca,San Juan Bautista Valle Nacional,1
+Oaxaca,San Juan Guichicovi,1
+Oaxaca,San Martín Tilcajete,1
+Oaxaca,San Sebastián Tutla,1
+Oaxaca,Santa Cruz Amilpas,1
+Oaxaca,Teotitlán del Valle,1
+Oaxaca,Tlacolula de Matamoros,1
+Jalisco,Tecalitlán,1
+Jalisco,Teuchitlán,1
+Nuevo León,China,1
+Nuevo León,Doctor Arroyo,1
+Nuevo León,Galeana,1
+Nuevo León,Vallecillo,1
+Oaxaca,Acatlán de Pérez Figueroa,1
+Oaxaca,El Barrio de la Soledad,1
+Oaxaca,El Espinal,1
+Hidalgo,Zacualtipán de Ángeles,1
+Hidalgo,Zapotlán de Juárez,1
+Jalisco,Amatitán,1
+Jalisco,Casimiro Castillo,1
+Guanajuato,Huanímaro,1
+Guanajuato,Jerécuaro,1
+Guanajuato,Manuel Doblado,1
+Guanajuato,Pueblo Nuevo,1
+Sonora,Imuris,1
+Sonora,San Ignacio Río Muerto,1
+Sonora,Ures,1
+Tamaulipas,Camargo,1
+Coahuila de Zaragoza,Cuatro Ciénegas,1
+Coahuila de Zaragoza,Morelos,1
+Coahuila de Zaragoza,Ocampo,1
+Colima,Armería,1
+Colima,Coquimatlán,1
+México,Tonatico,1
+México,Villa Guerrero,1
+México,Xalatlaco,1
+Nayarit,Ahuacatlán,1
+Nayarit,Amatlán de Cañas,1
+Nayarit,Rosamorada,1
+Jalisco,Magdalena,1
+Jalisco,Mascota,1
+Jalisco,San Diego de Alejandría,1
+Jalisco,San Gabriel,1
+Jalisco,San Juanito de Escobedo,1
+Tamaulipas,Gómez Farías,1
+Tamaulipas,Soto la Marina,1
+Tamaulipas,Tula,1
+Tlaxcala,Cuapiaxtla,1
+Tlaxcala,Nanacamilpa de Mariano Arista,1
+Tlaxcala,Papalotla de Xicohténcatl,1
+Tlaxcala,San Pablo del Monte,1
+Tlaxcala,Santa Cruz Tlaxcala,1
+Tlaxcala,Tepetitla de Lardizábal,1
+Tlaxcala,Tetla de la Solidaridad,1
+Tlaxcala,Totolac,1
+Tlaxcala,Xaloztoc,1
+Tlaxcala,Xaltocan,1
+Tlaxcala,Xicohtzinco,1
+Chihuahua,Buenaventura,1
+Chihuahua,Gómez Farías,1
+México,Soyaniquilpan de Juárez,1
+México,Temascaltepec,1
+México,Tequixquiac,1
+México,Tlalmanalco,1
+Jalisco,Tizapán el Alto,1
+Jalisco,Tomatlán,1
+Jalisco,Valle de Juárez,1
+Jalisco,Villa Purificación,1
+Michoacán de Ocampo,Aguililla,1
+Michoacán de Ocampo,Briseñas,1
+Michoacán de Ocampo,Chavinda,1
+Michoacán de Ocampo,Chilchota,1
+Michoacán de Ocampo,Coahuayana,1
+Michoacán de Ocampo,Queréndaro,1
+Michoacán de Ocampo,Quiroga,1
+Michoacán de Ocampo,Tancítaro,1
+Michoacán de Ocampo,Tangamandapio,1
+Michoacán de Ocampo,Tanhuato,1
+Morelos,Xoxocotla,1
+México,Amecameca,1
+México,Chiautla,1
+México,Chiconcuac,1
+México,Luvianos,1
+México,Mexicaltzingo,1
+México,Polotitlán,1
+Chihuahua,Valle de Zaragoza,1
+Veracruz de Ignacio de la Llave,Acajete,1
+Veracruz de Ignacio de la Llave,Altotonga,1
+Veracruz de Ignacio de la Llave,Angel R. Cabada,1
+Veracruz de Ignacio de la Llave,Banderilla,1
+Veracruz de Ignacio de la Llave,Camerino Z. Mendoza,1
+Veracruz de Ignacio de la Llave,Coyutla,1
+Veracruz de Ignacio de la Llave,Gutiérrez Zamora,1
+Veracruz de Ignacio de la Llave,Huayacocotla,1
+Veracruz de Ignacio de la Llave,Jáltipan,1
+Veracruz de Ignacio de la Llave,Manlio Fabio Altamirano,1
+Veracruz de Ignacio de la Llave,Nogales,1
+Veracruz de Ignacio de la Llave,Oluta,1
+Veracruz de Ignacio de la Llave,Playa Vicente,1
+Zacatecas,Tepetongo,1
+Zacatecas,Teúl de González Ortega,1
+Michoacán de Ocampo,Turicato,1
+Michoacán de Ocampo,Tzintzuntzan,1
+Michoacán de Ocampo,Venustiano Carranza,1
+Michoacán de Ocampo,Villamar,1
+Michoacán de Ocampo,Ziracuaretiro,1
+Morelos,Amacuzac,1
+Morelos,Hueyapan,1
+Morelos,Ocuituco,1
+Morelos,Tlaltizapán de Zapata,1
+Morelos,Tlaquiltenango,1
+Michoacán de Ocampo,Ixtlán,1
+Michoacán de Ocampo,José Sixto Verduzco,1
+Michoacán de Ocampo,Marcos Castellanos,1
+Michoacán de Ocampo,Nuevo Parangaricutiro,1
+Michoacán de Ocampo,Paracho,1
+Michoacán de Ocampo,Parácuaro,1
+Veracruz de Ignacio de la Llave,Rafael Delgado,1
+Veracruz de Ignacio de la Llave,Tempoal,1
+Veracruz de Ignacio de la Llave,Tlilapan,1
+Veracruz de Ignacio de la Llave,Vega de Alatorre,1
+Chiapas,Chamula,1
+Chiapas,Chicomuselo,1
+Chiapas,Chilón,1
+Chiapas,Copainalá,1
+Chiapas,Jiquipilas,1
+Chiapas,La Concordia,1
+Chiapas,Larráinzar,1
+Chiapas,Motozintla,1
+Chiapas,Ocozocoautla de Espinosa,1
+Chiapas,Osumacinta,1
+Chiapas,Reforma,1
+Chiapas,Salto de Agua,1
+Chiapas,Suchiapa,1
+Zacatecas,Trinidad García de la Cadena,1
+Zacatecas,Villanueva,1
+Aguascalientes,Tepezalá,1

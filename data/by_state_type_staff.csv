@@ -1,0 +1,1237 @@
+entidad,codigo_act,staff,establishments
+Aguascalientes,722511,0-5,340
+Aguascalientes,722511,11-30,110
+Aguascalientes,722511,31-50,17
+Aguascalientes,722511,51-100,3
+Aguascalientes,722511,6-10,179
+Aguascalientes,722512,0-5,242
+Aguascalientes,722512,11-30,29
+Aguascalientes,722512,31-50,2
+Aguascalientes,722512,51-100,1
+Aguascalientes,722512,6-10,67
+Aguascalientes,722513,0-5,3313
+Aguascalientes,722513,11-30,38
+Aguascalientes,722513,31-50,1
+Aguascalientes,722513,6-10,199
+Aguascalientes,722514,0-5,1698
+Aguascalientes,722514,11-30,30
+Aguascalientes,722514,31-50,2
+Aguascalientes,722514,6-10,198
+Aguascalientes,722515,0-5,1200
+Aguascalientes,722515,11-30,42
+Aguascalientes,722515,6-10,115
+Aguascalientes,722516,0-5,128
+Aguascalientes,722516,11-30,45
+Aguascalientes,722516,31-50,7
+Aguascalientes,722516,6-10,45
+Aguascalientes,722517,0-5,809
+Aguascalientes,722517,11-30,48
+Aguascalientes,722517,31-50,1
+Aguascalientes,722517,6-10,94
+Aguascalientes,722518,0-5,343
+Aguascalientes,722518,11-30,2
+Aguascalientes,722518,31-50,1
+Aguascalientes,722518,6-10,28
+Aguascalientes,722519,0-5,1181
+Aguascalientes,722519,11-30,4
+Aguascalientes,722519,31-50,1
+Aguascalientes,722519,6-10,17
+Baja California,722511,0-5,1568
+Baja California,722511,101-250,4
+Baja California,722511,11-30,461
+Baja California,722511,31-50,90
+Baja California,722511,51-100,20
+Baja California,722511,6-10,569
+Baja California,722512,0-5,734
+Baja California,722512,101-250,5
+Baja California,722512,11-30,92
+Baja California,722512,31-50,17
+Baja California,722512,51-100,2
+Baja California,722512,6-10,175
+Baja California,722513,0-5,1705
+Baja California,722513,11-30,55
+Baja California,722513,31-50,2
+Baja California,722513,6-10,187
+Baja California,722514,0-5,2151
+Baja California,722514,11-30,108
+Baja California,722514,31-50,8
+Baja California,722514,51-100,2
+Baja California,722514,6-10,333
+Baja California,722515,0-5,2554
+Baja California,722515,11-30,201
+Baja California,722515,251+,1
+Baja California,722515,31-50,8
+Baja California,722515,51-100,6
+Baja California,722515,6-10,353
+Baja California,722516,0-5,381
+Baja California,722516,101-250,3
+Baja California,722516,11-30,152
+Baja California,722516,31-50,53
+Baja California,722516,51-100,31
+Baja California,722516,6-10,143
+Baja California,722517,0-5,1585
+Baja California,722517,101-250,1
+Baja California,722517,11-30,100
+Baja California,722517,31-50,7
+Baja California,722517,6-10,262
+Baja California,722518,0-5,317
+Baja California,722518,11-30,15
+Baja California,722518,31-50,3
+Baja California,722518,6-10,35
+Baja California,722519,0-5,1048
+Baja California,722519,11-30,7
+Baja California,722519,6-10,32
+Baja California Sur,722511,0-5,501
+Baja California Sur,722511,101-250,7
+Baja California Sur,722511,11-30,218
+Baja California Sur,722511,251+,1
+Baja California Sur,722511,31-50,38
+Baja California Sur,722511,51-100,13
+Baja California Sur,722511,6-10,278
+Baja California Sur,722512,0-5,273
+Baja California Sur,722512,11-30,41
+Baja California Sur,722512,31-50,4
+Baja California Sur,722512,6-10,72
+Baja California Sur,722513,0-5,712
+Baja California Sur,722513,11-30,9
+Baja California Sur,722513,6-10,64
+Baja California Sur,722514,0-5,621
+Baja California Sur,722514,11-30,24
+Baja California Sur,722514,6-10,114
+Baja California Sur,722515,0-5,1186
+Baja California Sur,722515,11-30,35
+Baja California Sur,722515,31-50,5
+Baja California Sur,722515,6-10,92
+Baja California Sur,722516,0-5,128
+Baja California Sur,722516,11-30,28
+Baja California Sur,722516,31-50,11
+Baja California Sur,722516,51-100,7
+Baja California Sur,722516,6-10,34
+Baja California Sur,722517,0-5,624
+Baja California Sur,722517,11-30,28
+Baja California Sur,722517,6-10,85
+Baja California Sur,722518,0-5,148
+Baja California Sur,722518,11-30,3
+Baja California Sur,722518,31-50,2
+Baja California Sur,722518,6-10,12
+Baja California Sur,722519,0-5,227
+Baja California Sur,722519,11-30,2
+Baja California Sur,722519,6-10,11
+Campeche,722511,0-5,257
+Campeche,722511,101-250,1
+Campeche,722511,11-30,69
+Campeche,722511,251+,1
+Campeche,722511,31-50,19
+Campeche,722511,51-100,3
+Campeche,722511,6-10,115
+Campeche,722512,0-5,243
+Campeche,722512,11-30,18
+Campeche,722512,6-10,49
+Campeche,722513,0-5,1903
+Campeche,722513,11-30,13
+Campeche,722513,6-10,90
+Campeche,722514,0-5,916
+Campeche,722514,11-30,7
+Campeche,722514,6-10,123
+Campeche,722515,0-5,464
+Campeche,722515,11-30,13
+Campeche,722515,6-10,74
+Campeche,722516,0-5,58
+Campeche,722516,11-30,21
+Campeche,722516,31-50,1
+Campeche,722516,6-10,18
+Campeche,722517,0-5,716
+Campeche,722517,11-30,13
+Campeche,722517,6-10,88
+Campeche,722518,0-5,286
+Campeche,722518,11-30,3
+Campeche,722518,6-10,23
+Campeche,722519,0-5,490
+Campeche,722519,11-30,2
+Campeche,722519,6-10,18
+Chiapas,722511,0-5,2474
+Chiapas,722511,11-30,188
+Chiapas,722511,31-50,17
+Chiapas,722511,51-100,3
+Chiapas,722511,6-10,457
+Chiapas,722512,0-5,784
+Chiapas,722512,11-30,39
+Chiapas,722512,6-10,114
+Chiapas,722513,0-5,6070
+Chiapas,722513,11-30,22
+Chiapas,722513,6-10,183
+Chiapas,722514,0-5,4951
+Chiapas,722514,11-30,42
+Chiapas,722514,51-100,1
+Chiapas,722514,6-10,264
+Chiapas,722515,0-5,2210
+Chiapas,722515,11-30,43
+Chiapas,722515,6-10,166
+Chiapas,722516,0-5,241
+Chiapas,722516,11-30,50
+Chiapas,722516,31-50,17
+Chiapas,722516,6-10,19
+Chiapas,722517,0-5,3515
+Chiapas,722517,11-30,34
+Chiapas,722517,31-50,2
+Chiapas,722517,6-10,147
+Chiapas,722518,0-5,3040
+Chiapas,722518,11-30,10
+Chiapas,722518,6-10,74
+Chiapas,722519,0-5,3706
+Chiapas,722519,11-30,3
+Chiapas,722519,6-10,24
+Chihuahua,722511,0-5,1217
+Chihuahua,722511,101-250,4
+Chihuahua,722511,11-30,254
+Chihuahua,722511,31-50,77
+Chihuahua,722511,51-100,16
+Chihuahua,722511,6-10,321
+Chihuahua,722512,0-5,523
+Chihuahua,722512,101-250,1
+Chihuahua,722512,11-30,67
+Chihuahua,722512,31-50,4
+Chihuahua,722512,51-100,1
+Chihuahua,722512,6-10,129
+Chihuahua,722513,0-5,2964
+Chihuahua,722513,11-30,25
+Chihuahua,722513,31-50,2
+Chihuahua,722513,6-10,167
+Chihuahua,722514,0-5,2852
+Chihuahua,722514,11-30,85
+Chihuahua,722514,31-50,8
+Chihuahua,722514,6-10,244
+Chihuahua,722515,0-5,1591
+Chihuahua,722515,11-30,125
+Chihuahua,722515,31-50,1
+Chihuahua,722515,6-10,191
+Chihuahua,722516,0-5,462
+Chihuahua,722516,101-250,1
+Chihuahua,722516,11-30,84
+Chihuahua,722516,31-50,39
+Chihuahua,722516,51-100,14
+Chihuahua,722516,6-10,130
+Chihuahua,722517,0-5,2207
+Chihuahua,722517,11-30,75
+Chihuahua,722517,31-50,7
+Chihuahua,722517,6-10,195
+Chihuahua,722518,0-5,461
+Chihuahua,722518,11-30,11
+Chihuahua,722518,31-50,2
+Chihuahua,722518,6-10,22
+Chihuahua,722519,0-5,905
+Chihuahua,722519,11-30,11
+Chihuahua,722519,6-10,26
+Ciudad de México,722511,0-5,4200
+Ciudad de México,722511,101-250,63
+Ciudad de México,722511,11-30,1249
+Ciudad de México,722511,251+,8
+Ciudad de México,722511,31-50,520
+Ciudad de México,722511,51-100,150
+Ciudad de México,722511,6-10,1591
+Ciudad de México,722512,0-5,1270
+Ciudad de México,722512,101-250,6
+Ciudad de México,722512,11-30,119
+Ciudad de México,722512,251+,1
+Ciudad de México,722512,31-50,23
+Ciudad de México,722512,51-100,7
+Ciudad de México,722512,6-10,305
+Ciudad de México,722513,0-5,8586
+Ciudad de México,722513,101-250,19
+Ciudad de México,722513,11-30,174
+Ciudad de México,722513,251+,19
+Ciudad de México,722513,31-50,7
+Ciudad de México,722513,51-100,17
+Ciudad de México,722513,6-10,728
+Ciudad de México,722514,0-5,9173
+Ciudad de México,722514,101-250,3
+Ciudad de México,722514,11-30,238
+Ciudad de México,722514,251+,1
+Ciudad de México,722514,31-50,23
+Ciudad de México,722514,51-100,10
+Ciudad de México,722514,6-10,847
+Ciudad de México,722515,0-5,8306
+Ciudad de México,722515,101-250,4
+Ciudad de México,722515,11-30,621
+Ciudad de México,722515,31-50,38
+Ciudad de México,722515,51-100,7
+Ciudad de México,722515,6-10,884
+Ciudad de México,722516,0-5,811
+Ciudad de México,722516,101-250,1
+Ciudad de México,722516,11-30,460
+Ciudad de México,722516,251+,2
+Ciudad de México,722516,31-50,109
+Ciudad de México,722516,51-100,35
+Ciudad de México,722516,6-10,230
+Ciudad de México,722517,0-5,3329
+Ciudad de México,722517,101-250,1
+Ciudad de México,722517,11-30,111
+Ciudad de México,722517,251+,1
+Ciudad de México,722517,31-50,12
+Ciudad de México,722517,6-10,368
+Ciudad de México,722518,0-5,6855
+Ciudad de México,722518,11-30,51
+Ciudad de México,722518,31-50,2
+Ciudad de México,722518,6-10,492
+Ciudad de México,722519,0-5,3573
+Ciudad de México,722519,11-30,12
+Ciudad de México,722519,31-50,4
+Ciudad de México,722519,51-100,2
+Ciudad de México,722519,6-10,75
+Coahuila de Zaragoza,722511,0-5,898
+Coahuila de Zaragoza,722511,101-250,4
+Coahuila de Zaragoza,722511,11-30,265
+Coahuila de Zaragoza,722511,31-50,50
+Coahuila de Zaragoza,722511,51-100,12
+Coahuila de Zaragoza,722511,6-10,351
+Coahuila de Zaragoza,722512,0-5,278
+Coahuila de Zaragoza,722512,11-30,53
+Coahuila de Zaragoza,722512,31-50,12
+Coahuila de Zaragoza,722512,51-100,1
+Coahuila de Zaragoza,722512,6-10,79
+Coahuila de Zaragoza,722513,0-5,4071
+Coahuila de Zaragoza,722513,11-30,48
+Coahuila de Zaragoza,722513,31-50,2
+Coahuila de Zaragoza,722513,6-10,214
+Coahuila de Zaragoza,722514,0-5,1992
+Coahuila de Zaragoza,722514,11-30,62
+Coahuila de Zaragoza,722514,31-50,6
+Coahuila de Zaragoza,722514,6-10,234
+Coahuila de Zaragoza,722515,0-5,1297
+Coahuila de Zaragoza,722515,11-30,80
+Coahuila de Zaragoza,722515,251+,1
+Coahuila de Zaragoza,722515,31-50,4
+Coahuila de Zaragoza,722515,51-100,1
+Coahuila de Zaragoza,722515,6-10,129
+Coahuila de Zaragoza,722516,0-5,299
+Coahuila de Zaragoza,722516,11-30,116
+Coahuila de Zaragoza,722516,31-50,23
+Coahuila de Zaragoza,722516,51-100,12
+Coahuila de Zaragoza,722516,6-10,76
+Coahuila de Zaragoza,722517,0-5,1748
+Coahuila de Zaragoza,722517,11-30,95
+Coahuila de Zaragoza,722517,31-50,3
+Coahuila de Zaragoza,722517,6-10,222
+Coahuila de Zaragoza,722518,0-5,446
+Coahuila de Zaragoza,722518,11-30,11
+Coahuila de Zaragoza,722518,6-10,46
+Coahuila de Zaragoza,722519,0-5,928
+Coahuila de Zaragoza,722519,11-30,5
+Coahuila de Zaragoza,722519,31-50,1
+Coahuila de Zaragoza,722519,6-10,31
+Colima,722511,0-5,293
+Colima,722511,101-250,2
+Colima,722511,11-30,84
+Colima,722511,31-50,7
+Colima,722511,6-10,143
+Colima,722512,0-5,263
+Colima,722512,11-30,41
+Colima,722512,31-50,6
+Colima,722512,6-10,94
+Colima,722513,0-5,1390
+Colima,722513,11-30,12
+Colima,722513,31-50,1
+Colima,722513,6-10,92
+Colima,722514,0-5,1866
+Colima,722514,11-30,26
+Colima,722514,31-50,1
+Colima,722514,6-10,150
+Colima,722515,0-5,762
+Colima,722515,11-30,19
+Colima,722515,6-10,109
+Colima,722516,0-5,75
+Colima,722516,11-30,22
+Colima,722516,31-50,1
+Colima,722516,51-100,2
+Colima,722516,6-10,17
+Colima,722517,0-5,703
+Colima,722517,11-30,23
+Colima,722517,31-50,1
+Colima,722517,6-10,68
+Colima,722518,0-5,383
+Colima,722518,11-30,5
+Colima,722518,6-10,25
+Colima,722519,0-5,541
+Colima,722519,11-30,1
+Colima,722519,6-10,12
+Durango,722511,0-5,472
+Durango,722511,11-30,80
+Durango,722511,31-50,10
+Durango,722511,51-100,1
+Durango,722511,6-10,149
+Durango,722512,0-5,280
+Durango,722512,11-30,22
+Durango,722512,31-50,2
+Durango,722512,6-10,63
+Durango,722513,0-5,4401
+Durango,722513,11-30,23
+Durango,722513,31-50,1
+Durango,722513,6-10,165
+Durango,722514,0-5,1141
+Durango,722514,11-30,22
+Durango,722514,31-50,2
+Durango,722514,6-10,114
+Durango,722515,0-5,1006
+Durango,722515,11-30,30
+Durango,722515,6-10,93
+Durango,722516,0-5,164
+Durango,722516,11-30,29
+Durango,722516,31-50,9
+Durango,722516,6-10,42
+Durango,722517,0-5,1173
+Durango,722517,11-30,37
+Durango,722517,31-50,1
+Durango,722517,6-10,79
+Durango,722518,0-5,320
+Durango,722518,11-30,5
+Durango,722518,6-10,23
+Durango,722519,0-5,736
+Durango,722519,11-30,1
+Durango,722519,6-10,17
+Guanajuato,722511,0-5,1838
+Guanajuato,722511,101-250,2
+Guanajuato,722511,11-30,357
+Guanajuato,722511,31-50,66
+Guanajuato,722511,51-100,11
+Guanajuato,722511,6-10,542
+Guanajuato,722512,0-5,1130
+Guanajuato,722512,101-250,1
+Guanajuato,722512,11-30,77
+Guanajuato,722512,31-50,5
+Guanajuato,722512,51-100,1
+Guanajuato,722512,6-10,216
+Guanajuato,722513,0-5,6946
+Guanajuato,722513,11-30,41
+Guanajuato,722513,6-10,319
+Guanajuato,722514,0-5,6651
+Guanajuato,722514,11-30,51
+Guanajuato,722514,6-10,496
+Guanajuato,722515,0-5,4295
+Guanajuato,722515,11-30,150
+Guanajuato,722515,31-50,4
+Guanajuato,722515,51-100,2
+Guanajuato,722515,6-10,378
+Guanajuato,722516,0-5,370
+Guanajuato,722516,11-30,92
+Guanajuato,722516,31-50,21
+Guanajuato,722516,51-100,2
+Guanajuato,722516,6-10,109
+Guanajuato,722517,0-5,3767
+Guanajuato,722517,11-30,113
+Guanajuato,722517,31-50,3
+Guanajuato,722517,6-10,299
+Guanajuato,722518,0-5,2009
+Guanajuato,722518,11-30,12
+Guanajuato,722518,31-50,1
+Guanajuato,722518,6-10,91
+Guanajuato,722519,0-5,2866
+Guanajuato,722519,11-30,8
+Guanajuato,722519,31-50,1
+Guanajuato,722519,6-10,49
+Guerrero,722511,0-5,1959
+Guerrero,722511,101-250,1
+Guerrero,722511,11-30,126
+Guerrero,722511,31-50,21
+Guerrero,722511,51-100,8
+Guerrero,722511,6-10,407
+Guerrero,722512,0-5,608
+Guerrero,722512,11-30,72
+Guerrero,722512,31-50,5
+Guerrero,722512,6-10,194
+Guerrero,722513,0-5,5487
+Guerrero,722513,11-30,20
+Guerrero,722513,6-10,191
+Guerrero,722514,0-5,3831
+Guerrero,722514,11-30,44
+Guerrero,722514,31-50,2
+Guerrero,722514,6-10,323
+Guerrero,722515,0-5,2011
+Guerrero,722515,11-30,33
+Guerrero,722515,31-50,1
+Guerrero,722515,6-10,163
+Guerrero,722516,0-5,143
+Guerrero,722516,11-30,42
+Guerrero,722516,31-50,22
+Guerrero,722516,6-10,27
+Guerrero,722517,0-5,1552
+Guerrero,722517,11-30,37
+Guerrero,722517,31-50,2
+Guerrero,722517,6-10,127
+Guerrero,722518,0-5,2442
+Guerrero,722518,11-30,7
+Guerrero,722518,6-10,82
+Guerrero,722519,0-5,2921
+Guerrero,722519,11-30,4
+Guerrero,722519,6-10,23
+Hidalgo,722511,0-5,1172
+Hidalgo,722511,11-30,155
+Hidalgo,722511,31-50,23
+Hidalgo,722511,51-100,6
+Hidalgo,722511,6-10,280
+Hidalgo,722512,0-5,277
+Hidalgo,722512,11-30,32
+Hidalgo,722512,31-50,3
+Hidalgo,722512,6-10,64
+Hidalgo,722513,0-5,5100
+Hidalgo,722513,11-30,35
+Hidalgo,722513,31-50,1
+Hidalgo,722513,6-10,250
+Hidalgo,722514,0-5,2701
+Hidalgo,722514,11-30,25
+Hidalgo,722514,6-10,160
+Hidalgo,722515,0-5,1904
+Hidalgo,722515,11-30,42
+Hidalgo,722515,31-50,1
+Hidalgo,722515,6-10,185
+Hidalgo,722516,0-5,193
+Hidalgo,722516,11-30,39
+Hidalgo,722516,31-50,9
+Hidalgo,722516,6-10,17
+Hidalgo,722517,0-5,1935
+Hidalgo,722517,11-30,28
+Hidalgo,722517,6-10,112
+Hidalgo,722518,0-5,2359
+Hidalgo,722518,11-30,11
+Hidalgo,722518,6-10,83
+Hidalgo,722519,0-5,1720
+Hidalgo,722519,6-10,20
+Jalisco,722511,0-5,3732
+Jalisco,722511,101-250,17
+Jalisco,722511,11-30,767
+Jalisco,722511,251+,2
+Jalisco,722511,31-50,109
+Jalisco,722511,51-100,34
+Jalisco,722511,6-10,1249
+Jalisco,722512,0-5,1962
+Jalisco,722512,101-250,4
+Jalisco,722512,11-30,182
+Jalisco,722512,31-50,24
+Jalisco,722512,51-100,4
+Jalisco,722512,6-10,521
+Jalisco,722513,0-5,7777
+Jalisco,722513,11-30,93
+Jalisco,722513,31-50,7
+Jalisco,722513,6-10,583
+Jalisco,722514,0-5,12170
+Jalisco,722514,11-30,203
+Jalisco,722514,31-50,7
+Jalisco,722514,6-10,1079
+Jalisco,722515,0-5,6167
+Jalisco,722515,11-30,250
+Jalisco,722515,251+,1
+Jalisco,722515,31-50,13
+Jalisco,722515,6-10,594
+Jalisco,722516,0-5,740
+Jalisco,722516,101-250,1
+Jalisco,722516,11-30,243
+Jalisco,722516,31-50,25
+Jalisco,722516,51-100,15
+Jalisco,722516,6-10,196
+Jalisco,722517,0-5,4232
+Jalisco,722517,11-30,128
+Jalisco,722517,31-50,10
+Jalisco,722517,6-10,544
+Jalisco,722518,0-5,1824
+Jalisco,722518,11-30,26
+Jalisco,722518,31-50,5
+Jalisco,722518,6-10,120
+Jalisco,722519,0-5,3202
+Jalisco,722519,11-30,16
+Jalisco,722519,31-50,1
+Jalisco,722519,6-10,78
+Michoacán de Ocampo,722511,0-5,1804
+Michoacán de Ocampo,722511,11-30,241
+Michoacán de Ocampo,722511,31-50,32
+Michoacán de Ocampo,722511,51-100,6
+Michoacán de Ocampo,722511,6-10,460
+Michoacán de Ocampo,722512,0-5,1012
+Michoacán de Ocampo,722512,11-30,91
+Michoacán de Ocampo,722512,31-50,5
+Michoacán de Ocampo,722512,6-10,214
+Michoacán de Ocampo,722513,0-5,8173
+Michoacán de Ocampo,722513,11-30,43
+Michoacán de Ocampo,722513,6-10,320
+Michoacán de Ocampo,722514,0-5,7252
+Michoacán de Ocampo,722514,11-30,69
+Michoacán de Ocampo,722514,31-50,3
+Michoacán de Ocampo,722514,6-10,520
+Michoacán de Ocampo,722515,0-5,3481
+Michoacán de Ocampo,722515,11-30,71
+Michoacán de Ocampo,722515,31-50,5
+Michoacán de Ocampo,722515,6-10,244
+Michoacán de Ocampo,722516,0-5,332
+Michoacán de Ocampo,722516,11-30,39
+Michoacán de Ocampo,722516,31-50,14
+Michoacán de Ocampo,722516,51-100,2
+Michoacán de Ocampo,722516,6-10,49
+Michoacán de Ocampo,722517,0-5,3102
+Michoacán de Ocampo,722517,11-30,64
+Michoacán de Ocampo,722517,31-50,4
+Michoacán de Ocampo,722517,6-10,232
+Michoacán de Ocampo,722518,0-5,2124
+Michoacán de Ocampo,722518,11-30,10
+Michoacán de Ocampo,722518,6-10,95
+Michoacán de Ocampo,722519,0-5,3331
+Michoacán de Ocampo,722519,11-30,8
+Michoacán de Ocampo,722519,6-10,47
+Morelos,722511,0-5,908
+Morelos,722511,101-250,2
+Morelos,722511,11-30,126
+Morelos,722511,31-50,39
+Morelos,722511,51-100,3
+Morelos,722511,6-10,310
+Morelos,722512,0-5,209
+Morelos,722512,11-30,31
+Morelos,722512,31-50,4
+Morelos,722512,6-10,59
+Morelos,722513,0-5,3929
+Morelos,722513,11-30,27
+Morelos,722513,6-10,154
+Morelos,722514,0-5,2687
+Morelos,722514,11-30,28
+Morelos,722514,31-50,2
+Morelos,722514,6-10,221
+Morelos,722515,0-5,1355
+Morelos,722515,11-30,36
+Morelos,722515,31-50,1
+Morelos,722515,6-10,108
+Morelos,722516,0-5,128
+Morelos,722516,11-30,36
+Morelos,722516,31-50,22
+Morelos,722516,51-100,3
+Morelos,722516,6-10,21
+Morelos,722517,0-5,1134
+Morelos,722517,11-30,26
+Morelos,722517,6-10,95
+Morelos,722518,0-5,1438
+Morelos,722518,11-30,7
+Morelos,722518,6-10,55
+Morelos,722519,0-5,1553
+Morelos,722519,11-30,2
+Morelos,722519,6-10,15
+México,722511,0-5,4174
+México,722511,101-250,10
+México,722511,11-30,585
+México,722511,251+,1
+México,722511,31-50,199
+México,722511,51-100,44
+México,722511,6-10,1066
+México,722512,0-5,1686
+México,722512,11-30,108
+México,722512,31-50,16
+México,722512,51-100,4
+México,722512,6-10,295
+México,722513,0-5,18016
+México,722513,101-250,15
+México,722513,11-30,134
+México,722513,251+,7
+México,722513,31-50,1
+México,722513,51-100,2
+México,722513,6-10,910
+México,722514,0-5,15225
+México,722514,11-30,144
+México,722514,31-50,6
+México,722514,6-10,765
+México,722515,0-5,12285
+México,722515,101-250,1
+México,722515,11-30,223
+México,722515,31-50,11
+México,722515,6-10,685
+México,722516,0-5,1121
+México,722516,11-30,322
+México,722516,31-50,93
+México,722516,51-100,26
+México,722516,6-10,170
+México,722517,0-5,8842
+México,722517,11-30,118
+México,722517,31-50,5
+México,722517,6-10,424
+México,722518,0-5,11400
+México,722518,11-30,26
+México,722518,31-50,1
+México,722518,6-10,281
+México,722519,0-5,9862
+México,722519,11-30,13
+México,722519,31-50,1
+México,722519,6-10,85
+Nayarit,722511,0-5,687
+Nayarit,722511,101-250,1
+Nayarit,722511,11-30,146
+Nayarit,722511,31-50,7
+Nayarit,722511,51-100,3
+Nayarit,722511,6-10,268
+Nayarit,722512,0-5,922
+Nayarit,722512,101-250,1
+Nayarit,722512,11-30,88
+Nayarit,722512,251+,1
+Nayarit,722512,31-50,11
+Nayarit,722512,6-10,203
+Nayarit,722513,0-5,2325
+Nayarit,722513,11-30,11
+Nayarit,722513,6-10,132
+Nayarit,722514,0-5,2732
+Nayarit,722514,11-30,13
+Nayarit,722514,6-10,224
+Nayarit,722515,0-5,1285
+Nayarit,722515,11-30,26
+Nayarit,722515,31-50,2
+Nayarit,722515,6-10,122
+Nayarit,722516,0-5,152
+Nayarit,722516,11-30,24
+Nayarit,722516,31-50,8
+Nayarit,722516,6-10,25
+Nayarit,722517,0-5,1345
+Nayarit,722517,11-30,36
+Nayarit,722517,31-50,3
+Nayarit,722517,6-10,93
+Nayarit,722518,0-5,575
+Nayarit,722518,11-30,3
+Nayarit,722518,31-50,1
+Nayarit,722518,6-10,27
+Nayarit,722519,0-5,1354
+Nayarit,722519,11-30,4
+Nayarit,722519,6-10,21
+Nuevo León,722511,0-5,1645
+Nuevo León,722511,101-250,24
+Nuevo León,722511,11-30,501
+Nuevo León,722511,251+,1
+Nuevo León,722511,31-50,142
+Nuevo León,722511,51-100,53
+Nuevo León,722511,6-10,565
+Nuevo León,722512,0-5,607
+Nuevo León,722512,101-250,2
+Nuevo León,722512,11-30,103
+Nuevo León,722512,31-50,20
+Nuevo León,722512,51-100,2
+Nuevo León,722512,6-10,175
+Nuevo León,722513,0-5,2843
+Nuevo León,722513,101-250,1
+Nuevo León,722513,11-30,43
+Nuevo León,722513,31-50,4
+Nuevo León,722513,6-10,246
+Nuevo León,722514,0-5,6638
+Nuevo León,722514,101-250,2
+Nuevo León,722514,11-30,155
+Nuevo León,722514,31-50,7
+Nuevo León,722514,51-100,4
+Nuevo León,722514,6-10,646
+Nuevo León,722515,0-5,3245
+Nuevo León,722515,11-30,227
+Nuevo León,722515,31-50,5
+Nuevo León,722515,51-100,3
+Nuevo León,722515,6-10,222
+Nuevo León,722516,0-5,644
+Nuevo León,722516,101-250,2
+Nuevo León,722516,11-30,229
+Nuevo León,722516,31-50,64
+Nuevo León,722516,51-100,28
+Nuevo León,722516,6-10,175
+Nuevo León,722517,0-5,3231
+Nuevo León,722517,11-30,127
+Nuevo León,722517,31-50,29
+Nuevo León,722517,51-100,5
+Nuevo León,722517,6-10,368
+Nuevo León,722518,0-5,741
+Nuevo León,722518,11-30,21
+Nuevo León,722518,31-50,4
+Nuevo León,722518,51-100,1
+Nuevo León,722518,6-10,73
+Nuevo León,722519,0-5,2193
+Nuevo León,722519,11-30,16
+Nuevo León,722519,31-50,2
+Nuevo León,722519,51-100,1
+Nuevo León,722519,6-10,66
+Oaxaca,722511,0-5,2916
+Oaxaca,722511,11-30,192
+Oaxaca,722511,31-50,28
+Oaxaca,722511,51-100,5
+Oaxaca,722511,6-10,494
+Oaxaca,722512,0-5,1106
+Oaxaca,722512,11-30,43
+Oaxaca,722512,31-50,4
+Oaxaca,722512,6-10,149
+Oaxaca,722513,0-5,8411
+Oaxaca,722513,11-30,20
+Oaxaca,722513,31-50,1
+Oaxaca,722513,6-10,179
+Oaxaca,722514,0-5,5034
+Oaxaca,722514,11-30,19
+Oaxaca,722514,6-10,227
+Oaxaca,722515,0-5,3291
+Oaxaca,722515,101-250,1
+Oaxaca,722515,11-30,56
+Oaxaca,722515,31-50,2
+Oaxaca,722515,51-100,1
+Oaxaca,722515,6-10,210
+Oaxaca,722516,0-5,245
+Oaxaca,722516,11-30,21
+Oaxaca,722516,31-50,13
+Oaxaca,722516,6-10,24
+Oaxaca,722517,0-5,2538
+Oaxaca,722517,11-30,35
+Oaxaca,722517,6-10,171
+Oaxaca,722518,0-5,4044
+Oaxaca,722518,11-30,7
+Oaxaca,722518,31-50,1
+Oaxaca,722518,6-10,77
+Oaxaca,722519,0-5,6165
+Oaxaca,722519,11-30,3
+Oaxaca,722519,6-10,26
+Puebla,722511,0-5,2590
+Puebla,722511,101-250,2
+Puebla,722511,11-30,359
+Puebla,722511,31-50,75
+Puebla,722511,51-100,12
+Puebla,722511,6-10,580
+Puebla,722512,0-5,726
+Puebla,722512,11-30,57
+Puebla,722512,31-50,4
+Puebla,722512,51-100,2
+Puebla,722512,6-10,138
+Puebla,722513,0-5,9345
+Puebla,722513,11-30,34
+Puebla,722513,6-10,267
+Puebla,722514,0-5,9622
+Puebla,722514,11-30,73
+Puebla,722514,31-50,4
+Puebla,722514,6-10,387
+Puebla,722515,0-5,4617
+Puebla,722515,11-30,108
+Puebla,722515,31-50,3
+Puebla,722515,6-10,407
+Puebla,722516,0-5,469
+Puebla,722516,11-30,117
+Puebla,722516,31-50,5
+Puebla,722516,51-100,4
+Puebla,722516,6-10,59
+Puebla,722517,0-5,4171
+Puebla,722517,11-30,48
+Puebla,722517,31-50,1
+Puebla,722517,6-10,240
+Puebla,722518,0-5,4275
+Puebla,722518,11-30,10
+Puebla,722518,6-10,83
+Puebla,722519,0-5,5777
+Puebla,722519,11-30,8
+Puebla,722519,6-10,40
+Querétaro,722511,0-5,1033
+Querétaro,722511,101-250,7
+Querétaro,722511,11-30,240
+Querétaro,722511,251+,1
+Querétaro,722511,31-50,90
+Querétaro,722511,51-100,19
+Querétaro,722511,6-10,351
+Querétaro,722512,0-5,303
+Querétaro,722512,101-250,2
+Querétaro,722512,11-30,44
+Querétaro,722512,31-50,3
+Querétaro,722512,51-100,1
+Querétaro,722512,6-10,81
+Querétaro,722513,0-5,3012
+Querétaro,722513,11-30,35
+Querétaro,722513,31-50,2
+Querétaro,722513,6-10,179
+Querétaro,722514,0-5,2439
+Querétaro,722514,11-30,28
+Querétaro,722514,31-50,5
+Querétaro,722514,51-100,2
+Querétaro,722514,6-10,229
+Querétaro,722515,0-5,1843
+Querétaro,722515,11-30,111
+Querétaro,722515,31-50,5
+Querétaro,722515,6-10,209
+Querétaro,722516,0-5,266
+Querétaro,722516,101-250,1
+Querétaro,722516,11-30,81
+Querétaro,722516,31-50,16
+Querétaro,722516,51-100,11
+Querétaro,722516,6-10,71
+Querétaro,722517,0-5,1402
+Querétaro,722517,11-30,34
+Querétaro,722517,31-50,1
+Querétaro,722517,51-100,1
+Querétaro,722517,6-10,128
+Querétaro,722518,0-5,1006
+Querétaro,722518,11-30,6
+Querétaro,722518,6-10,43
+Querétaro,722519,0-5,1256
+Querétaro,722519,11-30,3
+Querétaro,722519,51-100,1
+Querétaro,722519,6-10,29
+Quintana Roo,722511,0-5,861
+Quintana Roo,722511,101-250,12
+Quintana Roo,722511,11-30,422
+Quintana Roo,722511,251+,2
+Quintana Roo,722511,31-50,91
+Quintana Roo,722511,51-100,26
+Quintana Roo,722511,6-10,571
+Quintana Roo,722512,0-5,333
+Quintana Roo,722512,101-250,2
+Quintana Roo,722512,11-30,70
+Quintana Roo,722512,31-50,19
+Quintana Roo,722512,51-100,5
+Quintana Roo,722512,6-10,155
+Quintana Roo,722513,0-5,2092
+Quintana Roo,722513,11-30,20
+Quintana Roo,722513,6-10,149
+Quintana Roo,722514,0-5,1190
+Quintana Roo,722514,11-30,52
+Quintana Roo,722514,31-50,2
+Quintana Roo,722514,6-10,217
+Quintana Roo,722515,0-5,1045
+Quintana Roo,722515,11-30,109
+Quintana Roo,722515,31-50,3
+Quintana Roo,722515,51-100,1
+Quintana Roo,722515,6-10,158
+Quintana Roo,722516,0-5,132
+Quintana Roo,722516,101-250,1
+Quintana Roo,722516,11-30,97
+Quintana Roo,722516,31-50,28
+Quintana Roo,722516,51-100,19
+Quintana Roo,722516,6-10,42
+Quintana Roo,722517,0-5,1059
+Quintana Roo,722517,11-30,39
+Quintana Roo,722517,251+,1
+Quintana Roo,722517,31-50,1
+Quintana Roo,722517,6-10,116
+Quintana Roo,722518,0-5,477
+Quintana Roo,722518,11-30,9
+Quintana Roo,722518,31-50,1
+Quintana Roo,722518,6-10,51
+Quintana Roo,722519,0-5,613
+Quintana Roo,722519,11-30,3
+Quintana Roo,722519,6-10,12
+San Luis Potosí,722511,0-5,993
+San Luis Potosí,722511,101-250,1
+San Luis Potosí,722511,11-30,153
+San Luis Potosí,722511,31-50,30
+San Luis Potosí,722511,51-100,5
+San Luis Potosí,722511,6-10,273
+San Luis Potosí,722512,0-5,417
+San Luis Potosí,722512,11-30,32
+San Luis Potosí,722512,31-50,3
+San Luis Potosí,722512,6-10,96
+San Luis Potosí,722513,0-5,5517
+San Luis Potosí,722513,11-30,33
+San Luis Potosí,722513,31-50,1
+San Luis Potosí,722513,6-10,209
+San Luis Potosí,722514,0-5,2726
+San Luis Potosí,722514,11-30,37
+San Luis Potosí,722514,31-50,2
+San Luis Potosí,722514,6-10,211
+San Luis Potosí,722515,0-5,1620
+San Luis Potosí,722515,11-30,50
+San Luis Potosí,722515,31-50,1
+San Luis Potosí,722515,6-10,121
+San Luis Potosí,722516,0-5,210
+San Luis Potosí,722516,101-250,13
+San Luis Potosí,722516,11-30,48
+San Luis Potosí,722516,31-50,11
+San Luis Potosí,722516,51-100,1
+San Luis Potosí,722516,6-10,49
+San Luis Potosí,722517,0-5,1482
+San Luis Potosí,722517,11-30,41
+San Luis Potosí,722517,31-50,1
+San Luis Potosí,722517,51-100,1
+San Luis Potosí,722517,6-10,135
+San Luis Potosí,722518,0-5,1217
+San Luis Potosí,722518,11-30,8
+San Luis Potosí,722518,6-10,58
+San Luis Potosí,722519,0-5,1528
+San Luis Potosí,722519,11-30,2
+San Luis Potosí,722519,6-10,20
+Sinaloa,722511,0-5,947
+Sinaloa,722511,101-250,8
+Sinaloa,722511,11-30,337
+Sinaloa,722511,251+,6
+Sinaloa,722511,31-50,46
+Sinaloa,722511,51-100,16
+Sinaloa,722511,6-10,405
+Sinaloa,722512,0-5,1257
+Sinaloa,722512,101-250,4
+Sinaloa,722512,11-30,94
+Sinaloa,722512,31-50,10
+Sinaloa,722512,51-100,2
+Sinaloa,722512,6-10,217
+Sinaloa,722513,0-5,2349
+Sinaloa,722513,11-30,42
+Sinaloa,722513,31-50,2
+Sinaloa,722513,6-10,216
+Sinaloa,722514,0-5,3202
+Sinaloa,722514,11-30,94
+Sinaloa,722514,31-50,1
+Sinaloa,722514,6-10,417
+Sinaloa,722515,0-5,1860
+Sinaloa,722515,11-30,120
+Sinaloa,722515,31-50,5
+Sinaloa,722515,6-10,153
+Sinaloa,722516,0-5,653
+Sinaloa,722516,11-30,116
+Sinaloa,722516,31-50,40
+Sinaloa,722516,51-100,1
+Sinaloa,722516,6-10,174
+Sinaloa,722517,0-5,1893
+Sinaloa,722517,11-30,83
+Sinaloa,722517,31-50,3
+Sinaloa,722517,6-10,237
+Sinaloa,722518,0-5,704
+Sinaloa,722518,11-30,14
+Sinaloa,722518,31-50,1
+Sinaloa,722518,51-100,1
+Sinaloa,722518,6-10,53
+Sinaloa,722519,0-5,1467
+Sinaloa,722519,11-30,30
+Sinaloa,722519,31-50,1
+Sinaloa,722519,51-100,1
+Sinaloa,722519,6-10,36
+Sonora,722511,0-5,918
+Sonora,722511,101-250,2
+Sonora,722511,11-30,257
+Sonora,722511,31-50,48
+Sonora,722511,51-100,5
+Sonora,722511,6-10,356
+Sonora,722512,0-5,1113
+Sonora,722512,101-250,1
+Sonora,722512,11-30,74
+Sonora,722512,31-50,13
+Sonora,722512,51-100,5
+Sonora,722512,6-10,165
+Sonora,722513,0-5,1312
+Sonora,722513,11-30,19
+Sonora,722513,6-10,136
+Sonora,722514,0-5,2451
+Sonora,722514,11-30,68
+Sonora,722514,31-50,5
+Sonora,722514,6-10,292
+Sonora,722515,0-5,1828
+Sonora,722515,11-30,145
+Sonora,722515,31-50,5
+Sonora,722515,51-100,2
+Sonora,722515,6-10,163
+Sonora,722516,0-5,444
+Sonora,722516,101-250,1
+Sonora,722516,11-30,83
+Sonora,722516,31-50,42
+Sonora,722516,51-100,4
+Sonora,722516,6-10,114
+Sonora,722517,0-5,1970
+Sonora,722517,11-30,64
+Sonora,722517,31-50,3
+Sonora,722517,51-100,1
+Sonora,722517,6-10,181
+Sonora,722518,0-5,410
+Sonora,722518,11-30,9
+Sonora,722518,6-10,30
+Sonora,722519,0-5,1021
+Sonora,722519,11-30,6
+Sonora,722519,31-50,1
+Sonora,722519,6-10,32
+Tabasco,722511,0-5,480
+Tabasco,722511,11-30,96
+Tabasco,722511,31-50,20
+Tabasco,722511,51-100,7
+Tabasco,722511,6-10,139
+Tabasco,722512,0-5,321
+Tabasco,722512,11-30,34
+Tabasco,722512,31-50,1
+Tabasco,722512,51-100,1
+Tabasco,722512,6-10,50
+Tabasco,722513,0-5,3495
+Tabasco,722513,11-30,12
+Tabasco,722513,6-10,103
+Tabasco,722514,0-5,2629
+Tabasco,722514,11-30,34
+Tabasco,722514,31-50,1
+Tabasco,722514,6-10,232
+Tabasco,722515,0-5,864
+Tabasco,722515,11-30,29
+Tabasco,722515,31-50,1
+Tabasco,722515,6-10,105
+Tabasco,722516,0-5,135
+Tabasco,722516,11-30,58
+Tabasco,722516,31-50,6
+Tabasco,722516,51-100,2
+Tabasco,722516,6-10,27
+Tabasco,722517,0-5,1225
+Tabasco,722517,11-30,31
+Tabasco,722517,31-50,2
+Tabasco,722517,6-10,130
+Tabasco,722518,0-5,437
+Tabasco,722518,11-30,4
+Tabasco,722518,6-10,26
+Tabasco,722519,0-5,1777
+Tabasco,722519,11-30,3
+Tabasco,722519,6-10,19
+Tamaulipas,722511,0-5,1198
+Tamaulipas,722511,101-250,3
+Tamaulipas,722511,11-30,217
+Tamaulipas,722511,31-50,44
+Tamaulipas,722511,51-100,7
+Tamaulipas,722511,6-10,341
+Tamaulipas,722512,0-5,610
+Tamaulipas,722512,11-30,51
+Tamaulipas,722512,31-50,1
+Tamaulipas,722512,51-100,1
+Tamaulipas,722512,6-10,125
+Tamaulipas,722513,0-5,2954
+Tamaulipas,722513,11-30,33
+Tamaulipas,722513,31-50,1
+Tamaulipas,722513,6-10,168
+Tamaulipas,722514,0-5,4862
+Tamaulipas,722514,11-30,62
+Tamaulipas,722514,31-50,2
+Tamaulipas,722514,6-10,400
+Tamaulipas,722515,0-5,1898
+Tamaulipas,722515,11-30,58
+Tamaulipas,722515,251+,1
+Tamaulipas,722515,31-50,1
+Tamaulipas,722515,6-10,161
+Tamaulipas,722516,0-5,267
+Tamaulipas,722516,11-30,102
+Tamaulipas,722516,31-50,19
+Tamaulipas,722516,51-100,18
+Tamaulipas,722516,6-10,65
+Tamaulipas,722517,0-5,1727
+Tamaulipas,722517,11-30,82
+Tamaulipas,722517,31-50,8
+Tamaulipas,722517,6-10,157
+Tamaulipas,722518,0-5,585
+Tamaulipas,722518,11-30,2
+Tamaulipas,722518,6-10,31
+Tamaulipas,722519,0-5,1232
+Tamaulipas,722519,6-10,18
+Tlaxcala,722511,0-5,596
+Tlaxcala,722511,11-30,54
+Tlaxcala,722511,31-50,5
+Tlaxcala,722511,6-10,124
+Tlaxcala,722512,0-5,172
+Tlaxcala,722512,11-30,8
+Tlaxcala,722512,6-10,40
+Tlaxcala,722513,0-5,1670
+Tlaxcala,722513,11-30,2
+Tlaxcala,722513,6-10,36
+Tlaxcala,722514,0-5,2036
+Tlaxcala,722514,11-30,11
+Tlaxcala,722514,6-10,90
+Tlaxcala,722515,0-5,1253
+Tlaxcala,722515,11-30,11
+Tlaxcala,722515,6-10,82
+Tlaxcala,722516,0-5,82
+Tlaxcala,722516,11-30,14
+Tlaxcala,722516,51-100,1
+Tlaxcala,722516,6-10,5
+Tlaxcala,722517,0-5,914
+Tlaxcala,722517,11-30,7
+Tlaxcala,722517,6-10,59
+Tlaxcala,722518,0-5,827
+Tlaxcala,722518,11-30,3
+Tlaxcala,722518,6-10,24
+Tlaxcala,722519,0-5,2079
+Tlaxcala,722519,6-10,16
+Veracruz de Ignacio de la Llave,722511,0-5,2682
+Veracruz de Ignacio de la Llave,722511,101-250,3
+Veracruz de Ignacio de la Llave,722511,11-30,330
+Veracruz de Ignacio de la Llave,722511,31-50,60
+Veracruz de Ignacio de la Llave,722511,51-100,13
+Veracruz de Ignacio de la Llave,722511,6-10,683
+Veracruz de Ignacio de la Llave,722512,0-5,1410
+Veracruz de Ignacio de la Llave,722512,11-30,94
+Veracruz de Ignacio de la Llave,722512,31-50,6
+Veracruz de Ignacio de la Llave,722512,51-100,1
+Veracruz de Ignacio de la Llave,722512,6-10,278
+Veracruz de Ignacio de la Llave,722513,0-5,15401
+Veracruz de Ignacio de la Llave,722513,11-30,53
+Veracruz de Ignacio de la Llave,722513,31-50,2
+Veracruz de Ignacio de la Llave,722513,6-10,362
+Veracruz de Ignacio de la Llave,722514,0-5,7596
+Veracruz de Ignacio de la Llave,722514,11-30,62
+Veracruz de Ignacio de la Llave,722514,31-50,8
+Veracruz de Ignacio de la Llave,722514,6-10,476
+Veracruz de Ignacio de la Llave,722515,0-5,4052
+Veracruz de Ignacio de la Llave,722515,101-250,2
+Veracruz de Ignacio de la Llave,722515,11-30,151
+Veracruz de Ignacio de la Llave,722515,31-50,18
+Veracruz de Ignacio de la Llave,722515,51-100,3
+Veracruz de Ignacio de la Llave,722515,6-10,381
+Veracruz de Ignacio de la Llave,722516,0-5,387
+Veracruz de Ignacio de la Llave,722516,11-30,113
+Veracruz de Ignacio de la Llave,722516,31-50,13
+Veracruz de Ignacio de la Llave,722516,51-100,2
+Veracruz de Ignacio de la Llave,722516,6-10,63
+Veracruz de Ignacio de la Llave,722517,0-5,4674
+Veracruz de Ignacio de la Llave,722517,11-30,113
+Veracruz de Ignacio de la Llave,722517,31-50,4
+Veracruz de Ignacio de la Llave,722517,6-10,354
+Veracruz de Ignacio de la Llave,722518,0-5,3572
+Veracruz de Ignacio de la Llave,722518,11-30,13
+Veracruz de Ignacio de la Llave,722518,6-10,106
+Veracruz de Ignacio de la Llave,722519,0-5,4836
+Veracruz de Ignacio de la Llave,722519,11-30,6
+Veracruz de Ignacio de la Llave,722519,31-50,1
+Veracruz de Ignacio de la Llave,722519,6-10,46
+Yucatán,722511,0-5,759
+Yucatán,722511,101-250,5
+Yucatán,722511,11-30,300
+Yucatán,722511,31-50,61
+Yucatán,722511,51-100,16
+Yucatán,722511,6-10,401
+Yucatán,722512,0-5,542
+Yucatán,722512,11-30,41
+Yucatán,722512,31-50,1
+Yucatán,722512,6-10,119
+Yucatán,722513,0-5,5225
+Yucatán,722513,11-30,27
+Yucatán,722513,31-50,1
+Yucatán,722513,6-10,243
+Yucatán,722514,0-5,2269
+Yucatán,722514,11-30,48
+Yucatán,722514,31-50,2
+Yucatán,722514,51-100,6
+Yucatán,722514,6-10,310
+Yucatán,722515,0-5,1605
+Yucatán,722515,11-30,76
+Yucatán,722515,31-50,3
+Yucatán,722515,6-10,215
+Yucatán,722516,0-5,275
+Yucatán,722516,11-30,82
+Yucatán,722516,31-50,20
+Yucatán,722516,6-10,50
+Yucatán,722517,0-5,1870
+Yucatán,722517,11-30,71
+Yucatán,722517,6-10,313
+Yucatán,722518,0-5,2333
+Yucatán,722518,11-30,24
+Yucatán,722518,6-10,150
+Yucatán,722519,0-5,1427
+Yucatán,722519,11-30,5
+Yucatán,722519,6-10,24
+Zacatecas,722511,0-5,448
+Zacatecas,722511,11-30,60
+Zacatecas,722511,31-50,7
+Zacatecas,722511,51-100,1
+Zacatecas,722511,6-10,127
+Zacatecas,722512,0-5,260
+Zacatecas,722512,11-30,18
+Zacatecas,722512,6-10,63
+Zacatecas,722513,0-5,2858
+Zacatecas,722513,11-30,21
+Zacatecas,722513,31-50,1
+Zacatecas,722513,6-10,165
+Zacatecas,722514,0-5,1527
+Zacatecas,722514,11-30,15
+Zacatecas,722514,6-10,96
+Zacatecas,722515,0-5,853
+Zacatecas,722515,11-30,15
+Zacatecas,722515,6-10,67
+Zacatecas,722516,0-5,102
+Zacatecas,722516,11-30,22
+Zacatecas,722516,31-50,6
+Zacatecas,722516,6-10,22
+Zacatecas,722517,0-5,895
+Zacatecas,722517,11-30,23
+Zacatecas,722517,6-10,92
+Zacatecas,722518,0-5,215
+Zacatecas,722518,11-30,2
+Zacatecas,722518,6-10,12
+Zacatecas,722519,0-5,764
+Zacatecas,722519,6-10,11
