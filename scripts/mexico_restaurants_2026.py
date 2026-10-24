@@ -124,35 +124,36 @@ json.dump(summary, open(os.path.join(DATA, "summary.json"), "w"), ensure_ascii=F
 # ── charts (state names and band labels read the same in both languages) ───
 for f in glob.glob(os.path.join(ROOT, "assets", "fonts", "Outfit-*.ttf")):
     font_manager.fontManager.addfont(f)
-plt.rcParams.update({"font.family": "Outfit", "font.size": 15})
+plt.rcParams.update({"font.family": "Outfit", "font.size": 22})
 CREAM, INK, FOREST, GOLD, MUTED = "#FBF8F1", "#10241A", "#1A472A", "#E6B33D", "#5C615C"
 
-top = by_state.sort_values("eleven_plus", ascending=False).head(12).iloc[::-1]
-fig, ax = plt.subplots(figsize=(12, 7.2), dpi=150)
+top = by_state.sort_values("eleven_plus", ascending=False).head(10).iloc[::-1]
+fig, ax = plt.subplots(figsize=(8, 7.6), dpi=150)
 fig.patch.set_facecolor(CREAM); ax.set_facecolor(CREAM)
 names = top["entidad"].str.replace(" de Ignacio de la Llave", "").str.replace(" de Zaragoza", "").replace({"México": "Estado de México"})
 b = ax.barh(names, top["eleven_plus"], color=FOREST, height=0.62)
 for rect, n, sh in zip(b, top["eleven_plus"], top["eleven_plus_share_pct"]):
-    ax.text(rect.get_width() + 40, rect.get_y() + rect.get_height() / 2, f"{int(n):,}  ·  {sh}%", va="center", color=INK, fontsize=14, fontweight="semibold")
-ax.set_xlim(0, top["eleven_plus"].max() * 1.28)
+    ax.text(rect.get_width() + 40, rect.get_y() + rect.get_height() / 2, f"{int(n):,} · {sh}%", va="center", color=INK, fontsize=20, fontweight="semibold")
+ax.set_xlim(0, top["eleven_plus"].max() * 1.62)
 for s in ["top", "right", "bottom"]: ax.spines[s].set_visible(False)
 ax.spines["left"].set_color("#D9D3C4"); ax.tick_params(axis="x", bottom=False, labelbottom=False); ax.tick_params(axis="y", colors=INK, length=0)
-fig.text(0.01, 0.02, "INEGI, DENUE 05/2026 · restaurantcodex.com", color=MUTED, fontsize=11)
+fig.text(0.01, 0.02, "INEGI, DENUE 05/2026 · restaurantcodex.com", color=MUTED, fontsize=15)
 plt.tight_layout(rect=(0, 0.04, 1, 1)); fig.savefig(os.path.join(CHARTS, "eleven-plus-by-state.png"), facecolor=CREAM); plt.close(fig)
 
-fig, ax = plt.subplots(figsize=(12, 6.2), dpi=150)
+fig, ax = plt.subplots(figsize=(8, 7), dpi=150)
 fig.patch.set_facecolor(CREAM); ax.set_facecolor(CREAM)
 labels = list(BAND_SHORT.values()); vals = [by_band[l] for l in labels]
 colors = [FOREST if i < 2 else GOLD for i in range(len(labels))]
 b = ax.bar(labels, vals, color=colors, width=0.62)
 for rect, v in zip(b, vals):
     pct = v / total * 100
-    ax.text(rect.get_x() + rect.get_width() / 2, rect.get_height() * 1.18, f"{v:,}\n{pct:.1f}%" if pct >= 0.1 else f"{v:,}\n<0.1%", ha="center", va="bottom", color=INK, fontsize=13, fontweight="semibold")
-ax.set_yscale("log"); ax.set_ylim(10, max(vals) * 8)
+    ax.text(rect.get_x() + rect.get_width() / 2, rect.get_height() * 1.18, f"{v:,}\n{pct:.1f}%" if pct >= 0.1 else f"{v:,}\n<0.1%", ha="center", va="bottom", color=INK, fontsize=16, fontweight="semibold")
+ax.set_yscale("log"); ax.set_ylim(10, max(vals) * 12)
+ax.tick_params(axis="x", labelsize=17)
 ax.yaxis.set_minor_locator(matplotlib.ticker.NullLocator())
 for s in ["top", "right", "left"]: ax.spines[s].set_visible(False)
 ax.spines["bottom"].set_color("#D9D3C4"); ax.tick_params(axis="y", left=False, labelleft=False); ax.tick_params(axis="x", colors=INK, length=0)
-fig.text(0.01, 0.02, "INEGI, DENUE 05/2026 · restaurantcodex.com", color=MUTED, fontsize=11)
+fig.text(0.01, 0.02, "INEGI, DENUE 05/2026 · restaurantcodex.com", color=MUTED, fontsize=15)
 plt.tight_layout(rect=(0, 0.05, 1, 1)); fig.savefig(os.path.join(CHARTS, "staff-bands.png"), facecolor=CREAM); plt.close(fig)
 
 print(json.dumps(summary, ensure_ascii=False, indent=1))
